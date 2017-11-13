@@ -1,5 +1,5 @@
 {
-    "name": "webup/laravel-sendinblue",
+    "name": "macromindonline/laravel-sendinblue",
     "description": "Laravel's mail transport for SendinBlue",
     "keywords": ["laravel", "laravel5", "lumen", "sendinblue", "stmp", "mailing"],
     "license": "MIT",
